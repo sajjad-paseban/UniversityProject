@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/UniversityProject/static/css/main.4901527d.css",
+    "main.js": "/UniversityProject/static/js/main.1da198a0.js",
+    "static/js/787.525063e2.chunk.js": "/UniversityProject/static/js/787.525063e2.chunk.js",
+    "static/media/1912160.jpg": "/UniversityProject/static/media/1912160.61d5c1bee5a6f6c0b305.jpg",
+    "static/media/Categories-applications-education-university.ico": "/UniversityProject/static/media/Categories-applications-education-university.47ce200c5ebac3f1f7bc.ico",
+    "static/media/Iranian Sans.ttf": "/UniversityProject/static/media/Iranian Sans.8c2ed8fb0154947263c5.ttf",
+    "static/media/pasbanProfileImage.jpeg": "/UniversityProject/static/media/pasbanProfileImage.b51db1468693c32bfa9b.jpeg",
+    "static/media/fatalianProfileImage.jpeg": "/UniversityProject/static/media/fatalianProfileImage.762b4bf73a08f5f53263.jpeg",
+    "index.html": "/UniversityProject/index.html",
+    "main.4901527d.css.map": "/UniversityProject/static/css/main.4901527d.css.map",
+    "main.1da198a0.js.map": "/UniversityProject/static/js/main.1da198a0.js.map",
+    "787.525063e2.chunk.js.map": "/UniversityProject/static/js/787.525063e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4901527d.css",
+    "static/js/main.1da198a0.js"
+  ]
+}
